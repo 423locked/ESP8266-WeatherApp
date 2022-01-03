@@ -38,12 +38,12 @@
 > ## _Project Information_
 
 ### Weather icon images
-![Weather_Icons](https://i.ibb.co/9N5nxtF/icons.png )
+![Weather_Icons](https://i.ibb.co/9N5nxtF/icons.pg)
 
 <br>
 
 ### Weather parameteres
-![Weather_Parameters](https://i.ibb.co/hsWQvJh/Params.png )
+![Weather_Parameters](https://i.ibb.co/hsWQvJh/Params.p)
 
 ## These are the features that are currently implemented in the project:
 * ### Connection to the IPS screen
